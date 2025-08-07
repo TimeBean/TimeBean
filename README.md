@@ -7,5 +7,5 @@
 
 <!-- Гитхаб статус -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TimeBean&theme=transparent&hide_border=true" width="65%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TimeBean&theme=transparent&hide_border=true" width="80%"/>
 </p>
