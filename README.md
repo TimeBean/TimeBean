@@ -5,4 +5,4 @@
 
 ### Statistics
 
-![MrOkun's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TimeBean&theme=react&show_icons=true&hide_border=false&layout=compact)
+![TimeBean's Stats](https://github-readme-stats.vercel.app/api?username=TimeBean&theme=default&show_icons=true&hide_border=true&count_private=true)
