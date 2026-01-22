@@ -3,7 +3,7 @@
 **Web Developer** · **Linux enthusiast**
 
 ## 🚀 About me
-- 🌐 Frontend & Backend (HTML, CSS, JavaScript, TypeScript)
+- 🌐 Frontend & Backend (HTML, CSS, JavaScript)
 - ⚙️ C# · ASP.NET · .NET Core
 - 🐧 Daily driving GNU/Linux
 
